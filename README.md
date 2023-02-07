@@ -49,7 +49,7 @@ Correr en el servidor
   npm run dev
 ```
 
-### IDE y Plugin recomendados
+### ⚙️ IDE y Plugin recomendados
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
