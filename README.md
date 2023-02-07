@@ -17,7 +17,7 @@ Prototipo de creación de Página Web relacionada al servicio de inmobiliarias, 
 
 🔹 Node JS
 
-### ✅ Nota
+### 📋 Nota
 
 *Al estar desarrollado con Vite no necesita tener instalado el fremawork de Vue dentro de su maquina, con la ejecución de comando de Instalación es suficiente.*
 
